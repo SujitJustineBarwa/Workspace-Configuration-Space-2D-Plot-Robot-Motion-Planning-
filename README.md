@@ -1,11 +1,11 @@
-# justine-pro-1
-Problem Statement :
+# Description
+**Problem Statement :**\
 Assume a two-arm manipulator with two revolute joints. Write a code in language of your choice (Matlab can be easy though) to do the following.\
 1.Draw the robot world to display the robot and some polygonal obstacles.\
 2.The code to generate the robot end effector workspace.\
 3.The code should also generate the configuration space and display the configuration  space obstacles.\
 
-Solution approach:\
+**Solution approach:**\
 1.The two arm are made and Plotted in graph using fill command(taking ttache vertex as input).\
 2.Ploting the static  polygonal Obstacles\
 3.Start a for loop for theta 1 (angle of first link from ground)\
@@ -21,7 +21,7 @@ The above calculation shows a the transformation applied to a single vertex of l
 7.End both the loops\
 
 
-Results:
+**Results:**
  
 The Configuration in real world (Red Box is obstacle)\
 ![](Images/img1.PNG)
