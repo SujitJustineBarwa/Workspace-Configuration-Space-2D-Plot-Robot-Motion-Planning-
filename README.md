@@ -1,4 +1,5 @@
 # Description
+Special Thanks to Atul Thakur Sir (from IIT PATNA)
 **Problem Statement :**\
 Assume a two-arm manipulator with two revolute joints. Write a code in language of your choice (Matlab can be easy though) to do the following.\
 1.Draw the robot world to display the robot and some polygonal obstacles.\
